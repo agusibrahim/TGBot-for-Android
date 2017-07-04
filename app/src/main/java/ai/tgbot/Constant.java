@@ -15,6 +15,6 @@ public class Constant
 	public static String NOTIF_ON_CLICK_="aguaibrahim.notification.onclick";
 	public static String NOTIF_ON_DISMISS_="aguaibrahim.notification.ondismiss";
 	public static int NOTIFY_ID=1945;
-	public static int POLLING_INTERVAL=2000; // 3 second
+	public static int POLLING_INTERVAL=3000; // 3 second
 	public static String TAG="AndTGBot";
 }
