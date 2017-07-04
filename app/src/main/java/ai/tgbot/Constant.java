@@ -12,8 +12,8 @@ public class Constant
 	// Set Token Here
 	public static String TOKEN="";
 	
-	public static String NOTIF_ON_CLICK_="aguaibrahim.notification.onclick";
-	public static String NOTIF_ON_DISMISS_="aguaibrahim.notification.ondismiss";
+	public static String NOTIF_ON_CLICK_="agusibrahim.notification.onclick";
+	public static String NOTIF_ON_DISMISS_="agusibrahim.notification.ondismiss";
 	public static int NOTIFY_ID=1945;
 	public static int POLLING_INTERVAL=3000; // 3 second
 	public static String TAG="AndTGBot";
