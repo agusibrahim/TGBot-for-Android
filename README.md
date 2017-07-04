@@ -28,5 +28,5 @@ Disini memperlihatkan bagaimana cara mengirim balik pesan, mengirim event Notifi
 Demo video https://youtu.be/WMtDyz_apjk
 
 ### License
-see LICENSE.txt
+see [LICENSE](https://github.com/agusibrahim/TGBot-for-Android/blob/master/LICENSE.md)
 
