@@ -13,7 +13,7 @@ Disini tidak ada setup server, hanya memanfaatkan [Telegram Bot API](https://cor
 Disini memperlihatkan bagaimana cara mengirim balik pesan, mengirim event Notifikasi di Klik dan Dismiss.
 
 ### Library yang di gunakan
-* Async Http Client
+* [Async Http Client](http://loopj.com/android-async-http/)
 > Http Client yang berjalan secara async dan pengaturannya tidak ribet.
 * Support Library v4
 > Untuk notify compat
