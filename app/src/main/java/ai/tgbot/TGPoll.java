@@ -88,7 +88,7 @@ public class TGPoll extends Service
 			}	
 		};
 		client.get(UPDATES_URL, null,resp);
-		return super.onStartCommand(intent, flags, startId);
+		return START_STICKY;
 	}
 	private void notifyme(String title, String str, String fromid){
 		Intent sendmsgClickintent=new Intent(Constant.NOTIF_ON_CLICK_);
