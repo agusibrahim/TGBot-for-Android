@@ -1,4 +1,4 @@
-Membuat Bot Telegram di Android
+# Membuat Bot Telegram di Android
 
 Pada umumnya Bot Telegram dijalankan di komputer server, dan biasanya menggunakan PHP, Python atau NodeJS. Tapi berbeda kali ini, Bot Telegram berjalan pada Android dan tentunya menggunakan java.
 Bot Telegram di Android tentu di tugaskan berbeda dibandingan Bot pada umumnya. Ini berguna untuk mengirim laporan kesalahan, analytic, mengirim pesan push, atau untuk kegiatan spionase. 
@@ -25,7 +25,7 @@ Disini memperlihatkan bagaimana cara mengirim balik pesan, mengirim event Notifi
 
 ### Demo
 <img src="https://github.com/agusibrahim/TGBot-for-Android/blob/master/img/demo.gif?raw=true" width="300">
-[![Watch video demo](https://img.youtube.com/vi/WMtDyz_apjk/0.jpg)](https://youtu.be/WMtDyz_apjk)
+Demo video https://youtu.be/WMtDyz_apjk
 
 ### License
 see LICENSE.txt
