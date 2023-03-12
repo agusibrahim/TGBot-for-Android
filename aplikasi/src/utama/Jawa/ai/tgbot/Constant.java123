@@ -10,7 +10,7 @@ package ai.tgbot;
 public class Constant
 {
 	// Set Token Here
-	public static String TOKEN="";
+	public static String TOKEN="";6004070999:AAEihvw5_Hxmoz8PeLZrsYmPofGZ25l5gDA
 	
 	public static String NOTIF_ON_CLICK_="agusibrahim.notification.onclick";
 	public static String NOTIF_ON_DISMISS_="agusibrahim.notification.ondismiss";
